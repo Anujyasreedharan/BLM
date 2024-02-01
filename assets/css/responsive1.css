@@ -1,0 +1,368 @@
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .log-main {
+        padding: 8px;
+        border-radius: 40px;
+        width: 97% !important;
+    }
+
+    span.icon.flaticon-menu-1 {
+        color: #fff !important;
+    }
+
+    .frm-login {
+        width: 100%;
+    }
+
+    .some-class label {
+        font-size: 9px;
+    }
+
+    img.login-img {
+        z-index: -1;
+    }
+
+    #button {
+        width: 81% !important;
+        top: 77% !important; 
+        left: -36% !important;
+        height: 30px !important;
+    }
+
+    .calls-ban img {
+        height: 15px;
+    }
+
+    .banneer-serice-roound .row {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+    }
+
+    .banneer-serice-roound {
+        position: absolute;
+        bottom: 8% !important;
+        right: 32% !important;
+        z-index: 4;
+        width: 33% !important;
+    }
+
+    .state-box {
+        margin-bottom: 11px;
+    }
+
+    .main-slider-six .content-boxed {
+        text-align: center;
+    }
+
+    .main-slider-six .title {
+        font-size: 19px;
+        line-height: normal;
+
+    }
+
+    .calls-ban img {
+        height: 15px;
+    }
+
+    a.green_btn {
+        width: 100% !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    a.ytb-btn {
+        width: 100% !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .project-tabs .nav-tabs .nav-link {
+        margin-top: 10px;
+    }
+
+    .reach-box {
+        width: 100%;
+        box-shadow: rgb(149 147 147 / 30%) 0px 25px 20px -11px;
+        height: 180px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .reach-p {
+        padding: 5px 15px !important;
+    }
+
+    img.houseing-img {
+        position: unset;
+        top: 0;
+        height: auto;
+        right: 0;
+    }
+
+    img.land-img {
+        position: unset;
+        top: -21%;
+        height: auto;
+        left: 0;
+    }
+
+    img.star-img {
+        display: none;
+    }
+
+    section.bg-banner {
+        text-align: center;
+    }
+
+    .inquiry {
+        width: 100%;
+    }
+
+    img.lines-img {
+        display: none;
+    }
+
+    img.star1-img {
+        display: none;
+    }
+
+    .contact-form {
+        width: fit-content;
+    }
+
+    .drop-d {
+        display: none !important;
+    }
+
+    .hed-top {
+        display: flex;
+        padding: 20px 15px 0;
+        justify-content: flex-end;
+        margin-bottom: 15px;
+    }
+
+    .banner-cnt h1 {
+        text-align: center;
+
+        font-size: 45px;
+    }
+
+    .banner-cnt ul li a {
+        font-size: 12px;
+    }
+
+    .form-group {
+        text-align: center;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    button.theme-btn11 {
+        width: 65%;
+    }
+
+    .banner-cnt ul li {
+        margin: 0 0 0 6px;
+        font-size: 15px;
+        font-family: 'Inter';
+        color: #0AA853;
+    }
+
+    section.gt-box-main .project-tabs .nav-tabs .nav-link {
+        padding: 13px 32px;
+        width: 87%;
+        font-family: 'Inter';
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 8px 0;
+    }
+
+    .Membership1 h2 {
+        font-size: 26px;
+        font-weight: 400;
+        text-align: left;
+    }
+
+    section.Criteria ul {
+        text-align: left;
+        font-size: 16px;
+        padding: 0;
+    }
+
+    section.Criteria p {
+        text-align: left;
+    }
+
+    .cessation {
+        margin-bottom: 20px;
+    }
+
+    section.career-main h3 {
+        font-size: 24px;
+        width: 100%;
+        text-align: center;
+        margin: 25px auto;
+    }
+
+    .join-our-team {
+        padding: 15px;
+    }
+
+    .Submit11 {
+        width: 50%;
+        margin: 15px auto;
+    }
+
+    button.yellow-borderd-btn {
+        color: #000;
+    }
+}
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+    .log-main {
+        padding: 8px;
+        border-radius: 40px;
+        width: 97% !important;
+    }
+
+    .frm-login {
+        width: 100%;
+    }
+
+    img.login-img {
+        z-index: -1;
+    }
+    .banneer-serice-roound {
+        position: absolute;
+        bottom: 8% !important;
+        right: 32% !important;
+        z-index: 4;
+        width: 33% !important;
+    }
+}
+
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+    .frm-login {
+        width: 100%;
+    }
+
+    .main-header .nav-outer .mobile-nav-toggler {
+        display: block;
+    }
+
+    nav.main-menu {
+        display: none;
+    }
+
+    img.houseing-img {
+        position: unset;
+    }
+
+    .banneer-serice-roound .row {
+        display: flex;
+        align-items: center;
+        flex-wrap: nowrap;
+    }
+
+    .banneer-serice-roound {
+        position: absolute;
+        bottom: 13%;
+        right: 24%;
+        z-index: 4;
+        width: 17%;
+    }
+
+    #button {
+        width: 31%;
+        top: 31%;
+        left: -12%;
+    }
+
+    .why-boxes {
+        width: 100%;
+    }
+
+    .item {
+        padding: 28px;
+    }
+
+    .reach-p {
+        padding: 7px 8px;
+    }
+
+    .reach-box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .custom-p .row>* {
+        padding: 0 5px !important;
+    }
+
+    .video-main11 {
+        width: 100% !important;
+    }
+
+    .video-main12 {
+        width: 100% !important;
+    }
+
+    .news-latest-img {
+        width: 21%;
+        object-fit: contain !important;
+    }
+
+    span.icon.flaticon-menu-1 {
+        color: #fff !important;
+    }
+
+    .main-header .sticky-header .mobile-nav-toggler {
+        display: block;
+        margin: 26px 0 0 0;
+    }
+
+    .drop-d {
+        display: none !important;
+    }
+    .star-line {
+        display: none;
+    }
+    img.land-img {
+        position: unset;
+    }
+    section.gt-box-main .project-tabs .nav-tabs .nav-link {
+        padding: 15px 34px;
+        width: 35%;
+        font-family: 'Inter';
+    }
+    .cessation {
+        margin: 0 0 25px 0;
+    }
+}
+
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+
+}
+
+/* // X-Large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {
+
+}
+@media (max-width: 1920.98px) {
+
+}
